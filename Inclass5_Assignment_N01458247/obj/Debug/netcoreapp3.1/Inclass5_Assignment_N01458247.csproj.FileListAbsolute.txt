@@ -1,0 +1,13 @@
+C:\Users\bhavi\source\repos\Inclass5_Assignment_N01458247\Inclass5_Assignment_N01458247\bin\Debug\netcoreapp3.1\Inclass5_Assignment_N01458247.exe
+C:\Users\bhavi\source\repos\Inclass5_Assignment_N01458247\Inclass5_Assignment_N01458247\bin\Debug\netcoreapp3.1\Inclass5_Assignment_N01458247.deps.json
+C:\Users\bhavi\source\repos\Inclass5_Assignment_N01458247\Inclass5_Assignment_N01458247\bin\Debug\netcoreapp3.1\Inclass5_Assignment_N01458247.runtimeconfig.json
+C:\Users\bhavi\source\repos\Inclass5_Assignment_N01458247\Inclass5_Assignment_N01458247\bin\Debug\netcoreapp3.1\Inclass5_Assignment_N01458247.runtimeconfig.dev.json
+C:\Users\bhavi\source\repos\Inclass5_Assignment_N01458247\Inclass5_Assignment_N01458247\bin\Debug\netcoreapp3.1\Inclass5_Assignment_N01458247.dll
+C:\Users\bhavi\source\repos\Inclass5_Assignment_N01458247\Inclass5_Assignment_N01458247\bin\Debug\netcoreapp3.1\Inclass5_Assignment_N01458247.pdb
+C:\Users\bhavi\source\repos\Inclass5_Assignment_N01458247\Inclass5_Assignment_N01458247\obj\Debug\netcoreapp3.1\Inclass5_Assignment_N01458247.csprojAssemblyReference.cache
+C:\Users\bhavi\source\repos\Inclass5_Assignment_N01458247\Inclass5_Assignment_N01458247\obj\Debug\netcoreapp3.1\Inclass5_Assignment_N01458247.AssemblyInfoInputs.cache
+C:\Users\bhavi\source\repos\Inclass5_Assignment_N01458247\Inclass5_Assignment_N01458247\obj\Debug\netcoreapp3.1\Inclass5_Assignment_N01458247.AssemblyInfo.cs
+C:\Users\bhavi\source\repos\Inclass5_Assignment_N01458247\Inclass5_Assignment_N01458247\obj\Debug\netcoreapp3.1\Inclass5_Assignment_N01458247.csproj.CoreCompileInputs.cache
+C:\Users\bhavi\source\repos\Inclass5_Assignment_N01458247\Inclass5_Assignment_N01458247\obj\Debug\netcoreapp3.1\Inclass5_Assignment_N01458247.dll
+C:\Users\bhavi\source\repos\Inclass5_Assignment_N01458247\Inclass5_Assignment_N01458247\obj\Debug\netcoreapp3.1\Inclass5_Assignment_N01458247.pdb
+C:\Users\bhavi\source\repos\Inclass5_Assignment_N01458247\Inclass5_Assignment_N01458247\obj\Debug\netcoreapp3.1\Inclass5_Assignment_N01458247.genruntimeconfig.cache
